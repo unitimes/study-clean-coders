@@ -11,6 +11,7 @@
 ![Image of Flow]
 (https://github.com/unitimes/study-clean-coders/blob/master/tdd/flow.png?raw=true)
 한 사이클을 완전히 완수하고 다음 사이클로 넘어가야 한다
+
 즉 하나의 failing test에 대한 일련의 절차를 마무리 하고 다음 failing test를 작성
 ##원칙&팁
 작은 기능, 간단한 기능 부터 테스트
