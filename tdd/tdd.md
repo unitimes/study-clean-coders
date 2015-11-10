@@ -6,6 +6,7 @@
 
 2. Write only ENOUGH of a test to demonstrate a failure.
 3. Write only ENOUGH production code to pass the test.
+
 ##TDD 절차
 ![Image of Flow]
 (https://github.com/unitimes/study-clean-coders/blob/master/tdd/flow.png?raw=true)
