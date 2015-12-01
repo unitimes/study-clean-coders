@@ -17,14 +17,14 @@ Delivery는 변할 수 있는 부분
 >분리는 use case와 delivery 사이에서만 필요한 것이 아니다. use case와 entity, entyty와 db사이에도 필요하다.
 
 ###Use case 정의
->**주문 생성**
->Data:
->`<customer-id>`, `<customer-contact-info>`, `<shipment-destination>`
->Primary Course:
->1. 수주 담당자가 주문 데이터를 입력
->2. 시스템이 데이터를 검증
->3. 시스템이 주문을 생성하고 주문 아이디를 결정
->Alternative Course:
+>**주문 생성**    
+>Data:    
+>`<customer-id>`, `<customer-contact-info>`, `<shipment-destination>`    
+>Primary Course:    
+>1. 수주 담당자가 주문 데이터를 입력    
+>2. 시스템이 데이터를 검증    
+>3. 시스템이 주문을 생성하고 주문 아이디를 결정    
+>Alternative Course:    
 >예외 상황 등에 대한 flow 정의
 
 반드시 위 예제의 형식을 따라야 하는 것은 아님    
